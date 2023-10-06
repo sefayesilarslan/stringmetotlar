@@ -1,0 +1,15 @@
+C:\pratikler\string-metotlar\bin\Debug\net6.0\string-metotlar.exe
+C:\pratikler\string-metotlar\bin\Debug\net6.0\string-metotlar.deps.json
+C:\pratikler\string-metotlar\bin\Debug\net6.0\string-metotlar.runtimeconfig.json
+C:\pratikler\string-metotlar\bin\Debug\net6.0\string-metotlar.dll
+C:\pratikler\string-metotlar\bin\Debug\net6.0\string-metotlar.pdb
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.csproj.AssemblyReference.cache
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.AssemblyInfoInputs.cache
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.AssemblyInfo.cs
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.csproj.CoreCompileInputs.cache
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.dll
+C:\pratikler\string-metotlar\obj\Debug\net6.0\refint\string-metotlar.dll
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.pdb
+C:\pratikler\string-metotlar\obj\Debug\net6.0\string-metotlar.genruntimeconfig.cache
+C:\pratikler\string-metotlar\obj\Debug\net6.0\ref\string-metotlar.dll
